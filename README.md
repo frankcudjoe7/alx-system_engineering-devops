@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Devops files for the ALX Program
+A repo for all ALX Devops assignments
